@@ -1,0 +1,10 @@
+{
+  "description": "Connects blood donors and requesters through an easy, trustworthy platform enabling emergency blood requests, donor searches, and volunteer registration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
